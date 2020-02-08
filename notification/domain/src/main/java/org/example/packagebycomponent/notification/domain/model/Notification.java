@@ -8,9 +8,9 @@ import java.util.Objects;
 
 public class Notification {
 
-    private final String target;
+    private final String reciver;
+    private final String sender;
     private final String describe;
-    private final String channel;
     private final LocalDateTime occurredIn;
 
 
