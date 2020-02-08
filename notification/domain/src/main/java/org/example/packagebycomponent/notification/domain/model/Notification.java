@@ -8,7 +8,7 @@ import java.util.Objects;
 
 public class Notification {
 
-    private final String reciver;
+    private final String receiver;
     private final String sender;
     private final String describe;
     private final LocalDateTime occurredIn;
